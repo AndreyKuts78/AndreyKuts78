@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndreyKuts78
-- 👀 I’m interested in launching IT carrier as Product/Project Manager
+- 👀 I’m interested in launching IT carreer as Product/Project Manager
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me via andrey.kuts@gmail.com
